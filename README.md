@@ -1,7 +1,7 @@
 # Tangible Research
 
 <p align="center">
-  <img src="asstes/Tangible.png" alt="Tangible Research Logo" />
+  <img src="profile/asstes/Tangible.png" alt="Tangible Research Logo" />
 </p>
 
 <p align="center">
